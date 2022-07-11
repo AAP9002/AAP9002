@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on
-    Absolute Insulation Website
-    Josh Plastering Website
+    * Absolute Insulation Website
+    * Josh Plastering Website
 - 🌱 I’m currently learning 
-    React JS
-    Payment API services
+    * React JS
+    * Payment API services
 - 🏢 Freelance Sites
     * Prophetts Soft Drinks www.prophetts.co.uk/
     * Can Wholesale https://canwholesale.co.uk/
